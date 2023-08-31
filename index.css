@@ -1,0 +1,63 @@
+body {
+    margin: 300px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly
+}
+
+.card {
+    border: 1px solid rgb(135, 44, 255);
+    border-radius: 3px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(135, 44, 255);
+    margin-bottom: 0px;
+}
+
+button {
+    border: 2px solid rgb(135, 44, 255);
+    color: rgb(135, 44, 255);
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+
+#score {
+    font-size: 50px;
+    color: rgb(135, 44, 255);
+}
+
+#score-home, #score-guest {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(135, 44, 255);
+}
+
+.score-bg {
+    background-color: rgb(235, 235, 235);
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.container_two {
+    margin-top: 30px; /* Pushes container_two to the bottom */
+    display: flex;
+    justify-content: center;
+}
