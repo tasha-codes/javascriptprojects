@@ -4,7 +4,7 @@ This is a web application for people who referee sports and need to keep track o
 <h1>Features</h1>
 
 <ul>
-  <li>Keep track oftwo teams</li>
+  <li>Keep track of two teams</li>
   <li>Incremenet the score between 1 and 3 points</li>
   <li>Reset the score</li>
 </ul>
