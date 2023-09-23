@@ -9,4 +9,4 @@ This is a web application for people who referee sports and need to keep track o
 <h1>Output</h1>
 
 View the website here: https://zippy-banoffee-7881f7.netlify.app
-<img src="scoreboard">
+<img src="scoreboard.png">
