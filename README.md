@@ -2,11 +2,14 @@
 This is a web application for people who referee sports and need to keep track of scores.
 
 <h1>Features</h1>
-- You can keep count of at least two teams
-- You can incremenet the score between 1 and 3 points
-- You can reset the score
+
+<ul>
+  <li>Keep track oftwo teams</li>
+  <li>Incremenet the score between 1 and 3 points</li>
+  <li>Reset the score</li>
+</ul>
+
+
 
 <h1>Output</h1>
-
-View the website here: https://zippy-banoffee-7881f7.netlify.app
-<img src="scoreboard.png">
+<a href="https://zippy-banoffee-7881f7.netlify.app"><img src="scoreboard.png"></a>
